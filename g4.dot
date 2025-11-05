@@ -1,10 +1,11 @@
 graph {
-node [image="/home/user/tp-r504/TP6/icon_router.png" shape="none" fixedsize=true];
+node[image="/home/user/Downloads/icon_router.png" shape="none" fontsize="16pt" fontcolor="red" fixedsize=true];
+edge [fontsize="16pt" color="red" fontcolor="blue"];
 A [pos="10,5!"];
 B [pos="8,7!"];
 C [pos="7,4!"];
 D [pos="4,4!"];
-E [pos="4,1!"];
+E [pos="4,1!"]; 
 F [pos="1,2!"];
 G [pos="2,6!"];
 H [pos="4,8!"];
